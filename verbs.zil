@@ -337,7 +337,7 @@ standard colors? (Type Y to pick again) >">
 	 <CENTER-2 "Joe Prosser" "Steve Watkins">
 	 <CRLF>
 	 <CENTER-1 "package design" T>
-	 <CENTER-2 "Carl Genatassio" "Elizabeth Langosy">
+	 <CENTER-2 "Carl Genatossio" "Elizabeth Langosy">
 	 <CRLF>
 	 <CENTER-1 "calendar design" T>
 	 <CENTER-2 "Amy Briggs" "Elizabeth Langosy">
